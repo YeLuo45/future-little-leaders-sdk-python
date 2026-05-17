@@ -1,0 +1,5 @@
+# Future Little Leaders Python SDK
+
+requests>=2.28.0
+pydantic>=2.0.0
+PyJWT>=2.8.0
